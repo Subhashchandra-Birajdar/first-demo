@@ -116,7 +116,7 @@ to merge 2 branches<br>
 	git merge <-branch name--><br>
 
 <h2>way2</h2><br.
- create a PR(pull request)<br>
+ <p>create a PR(pull request)</p><br>
 
 <h1>PULL Request</h1><br>
 It lets you tell others about changes you'have pushed to a branch in a repository on GitHub.<br>
