@@ -7,10 +7,10 @@ Author - Subhash Birajdar(MH)
          1. version control system <br>
          2. tool that helps too tract changes in code.<br>
          3. pen source, free and open source, fast and scalale<br>
-
-<p>uses:</p>
-	1. track the history code
-	2. collaboration
+<br>
+<p>uses:</p><br>
+	1. track the history code<br>
+	2. collaboration<br>
 
 <h1>Github:</h1> <br>
                 1. Website that allows developers to store and manage their code using Git.<br>
@@ -63,7 +63,7 @@ file is ready to be commited<br>
 <h1>inmodified</h1><br>
 unchanged<br>
 
-<h1>when we add file then it will go to stage then we will commit then it will be unchange.</h1><br>
+when we add file then it will go to stage then we will commit then it will be unchange.<br>
 
 <h1>add</h1><br>
         adds new or changed files in your working directory to the git staging area<br>
